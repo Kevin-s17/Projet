@@ -6,7 +6,9 @@ J'ai donc créé un script en python afin de reproduire ceci.
 
 J'ai donc mis au point un SCANNEUR D'IP.
 
+
 1 - Pour le faire fonctionner, veuillez récupérer le fichier scan_ip.py (script) 
+
 
 2.a - Si vous voulez l'executer depuis l'invite de commande, mettez le dans un repertoire facilement accessible (sur le bureau par exemple)
     
@@ -14,20 +16,24 @@ J'ai donc mis au point un SCANNEUR D'IP.
     
    Puis entrez le nom du script afin de l'exécuter.
     
+
 2.b - Si vous avez un interpréteur python, exécutez simplement le script avec celui-ci.
     
    Edit with.. puis f5 pour éxécuter le script
     
+
 3 - Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1.)
     
    Exemple:
             
    Reseau: 192.168.1.
     
+   
    Pour stopper le processus entrez Stop
             
    Reseau: Stop
     
+   
    Resultat:
     
             Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1. ) Entrez 'Stop' pour arreter la saisie.
@@ -49,20 +55,23 @@ J'ai donc mis au point un SCANNEUR D'IP.
 
 
 
-
 Développé avec:
 
 Os: Windows 10
 
+
 Langage: Python 3.9.1 avec l'interpréteur IDLE
+
 
 Versions:
 
 1.0
 
+
 Auteur:
 
 Kevin Sousa alias Kevin-s17
+
 
 License:
 
