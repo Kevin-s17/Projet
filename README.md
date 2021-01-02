@@ -57,6 +57,7 @@ Le processus du script va se faire en deux partie:
    Fin de l'exemple.
 
 
+Compatibilité: Windows 10 (non testé avec les versions précedentes), Linux(?), IOS(non testé), Python 3.9.1(versions antérieur non testé)
 
 Développé avec: Windows 10/Python 3.9.1 avec l'interpréteur IDLE
 
@@ -64,7 +65,7 @@ Versions: 1.0
 
 Auteur: Kevin Sousa alias Kevin-s17
 
-License:
+License: GNU General Public License v3.0
 
 
 
