@@ -16,11 +16,11 @@ J'ai donc mis au point un SCANNEUR D'IP.
 3 - Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1.)
     Exemple:
             Reseau: 192.168.1.
-            
-    Pour stopper le processus entrez Stop
+    
+   Pour stopper le processus entrez Stop
             Reseau: Stop
     
-    Resultat:
+   Resultat:
     
             Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1. ) Entrez 'Stop' pour arreter la saisie.
 
@@ -37,7 +37,7 @@ J'ai donc mis au point un SCANNEUR D'IP.
             
             -------------- Fin du Scan ---------------
             
-      Fin de l'exemple.
+   Fin de l'exemple.
 
 
 
