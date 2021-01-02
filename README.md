@@ -10,9 +10,9 @@ Processus du scipt:
 
 Le processus du script va se faire en deux partie:
 
-1ere partie il va scanner le reseau grace à la classe Scan qui contient la commande socket.gethostbyaddr, qui va donc répertorier tout les ip et hostnames du réseau en memoire sur la machine locale puis les afficher.
+1ere partie il va scanner le reseau grace à la classe Scan qui contient la commande socket.gethostbyaddr, qui va donc répertorier tout les ips et hostnames du réseau en memoire sur la machine locale puis les afficher.
 
-2ieme partie la classe Ping va s'éxécuter et pinguer tout les ip de ce même reseau afin de répertorier les ip dont le hostname n'est pas reconnu par la machine locale puis les afficher.
+2ieme partie la classe Ping va s'éxécuter et pinguer tout les ip de ce même reseau afin de répertorier les ips dont le hostname n'est pas reconnu par la machine locale puis les afficher.
 
 1 - Pour faire fonctionner le script, veuillez récupérer le fichier scan_ip.py (script) 
 
