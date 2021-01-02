@@ -50,6 +50,7 @@ Le processus du script va se faire en deux partie:
             192.168.1.1             PC1
             192.168.1.2             PC2
             192.168.1.254           Routeur
+            192.168.1.25            Not Found
             
             -------------- Fin du Scan ---------------
             
