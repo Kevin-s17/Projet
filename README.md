@@ -6,7 +6,15 @@ J'ai donc créé un script en python afin de reproduire ceci.
 
 J'ai donc mis au point un SCANNEUR D'IP.
 
-1 - Pour le faire fonctionner, veuillez récupérer le fichier scan_ip.py (script) 
+Processus du scipt:
+
+Le processus du script va se faire en deux partie:
+
+1ere partie il va scanner le reseau grace à la classe Scan qui contient la commande socket.gethostbyaddr, qui va donc répertorier tout les ip et hostnames du réseau en memoire sur la machine locale puis les afficher.
+
+2ieme partie la classe Ping va s'éxécuter et pinguer tout les ip de ce même reseau afin de répertorier les ip dont le hostname n'est pas reconnu par la machine locale puis les afficher.
+
+1 - Pour faire fonctionner le script, veuillez récupérer le fichier scan_ip.py (script) 
 
 2.a - Si vous voulez l'executer depuis l'invite de commande, mettez le dans un repertoire facilement accessible (sur le bureau par exemple)
     
@@ -14,9 +22,9 @@ J'ai donc mis au point un SCANNEUR D'IP.
     
    Puis entrez le nom du script afin de l'exécuter.
     
-2.b - Si vous avez un interpréteur python, exécutez simplement le script avec celui-ci.
+2.b - Si vous avez un interpréteur python(ex IDLE), exécutez simplement le script avec celui-ci.
     
-   Edit with.. puis f5 pour éxécuter le script
+   clic droit sur  le script - Edit with(nom de l'interpréteur) puis f5 ou run pour éxécuter le script
     
 3 - Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1.)
     
@@ -28,7 +36,7 @@ J'ai donc mis au point un SCANNEUR D'IP.
             
    Reseau: Stop
     
-   Resultat:
+   Resultat (capture éxécution du scipt)
     
             Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1. ) Entrez 'Stop' pour arreter la saisie.
 
