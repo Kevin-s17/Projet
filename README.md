@@ -45,7 +45,7 @@ Le processus du script va se faire en deux partie:
     
             ---------- Réseau  192.168.1.0 ----------
 
-            IP			      Hostname
+            IP			            Hostname
             ------------------------------------------
             192.168.1.1             PC1
             192.168.1.2             PC2
