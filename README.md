@@ -49,19 +49,11 @@ J'ai donc mis au point un SCANNEUR D'IP.
 
 
 
-Développé avec:
+Développé avec: Windows 10/Python 3.9.1 avec l'interpréteur IDLE
 
-Os: Windows 10
+Versions: 1.0
 
-Langage: Python 3.9.1 avec l'interpréteur IDLE
-
-Versions:
-
-1.0
-
-Auteur:
-
-Kevin Sousa alias Kevin-s17
+Auteur: Kevin Sousa alias Kevin-s17
 
 License:
 
