@@ -11,5 +11,50 @@ J'ai donc mis au point un SCANNEUR D'IP.
     Puis entrez le nom du script afin de l'exécuter.
     
 2.b - Si vous avez un interpréteur python, exécutez simplement le script avec celui-ci.
+    Edit with.. puis f5 pour éxécuter le script
+    
+3 - Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1.)
+    Exemple:
+            Reseau: 192.168.1.
+            
+    Pour stopper le processus entrez Stop
+            Reseau: Stop
+    
+    Resultat:
+    
+            Entrez une (ou plusieurs) adresse(s) reseau(x) Format(EX: 192.168.1. ) Entrez 'Stop' pour arreter la saisie.
+
+            Reseau: 192.168.1.
+            Reseau: Stop
+    
+            ---------- Réseau  192.168.1.0 ----------
+
+            IP			            Hostname
+            ------------------------------------------
+            192.168.1.1             PC1
+            192.168.1.2             PC2
+            192.168.1.254           Routeur
+            
+            -------------- Fin du Scan ---------------
+            
+      Fin de l'exemple.
+
+
+
+
+Développé avec:
+Os: Windows 10
+Langage: Python 3.9.1 avec l'interpréteur IDLE
+
+Versions:
+1.0
+
+Auteur:
+Kevin Sousa alias Kevin-s17
+
+License:
+
+
+
 
 
