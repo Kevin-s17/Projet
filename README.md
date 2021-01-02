@@ -1,8 +1,8 @@
 # Projet
 
 Voulant connaitre les hotes et leur addresses ip sur mon réseau, je n'avais pas vraiment de commandes qui me listaient rapidement tout cela.
-J'ai donc créé un script en python afin de reproduire ceci.
-J'ai donc mis au point un SCANNEUR D'IP.
+/nJ'ai donc créé un script en python afin de reproduire ceci.
+/nJ'ai donc mis au point un SCANNEUR D'IP.
 
 1 - Pour le faire fonctionner, veuillez récupérer le fichier scan_ip.py (script) 
 
